@@ -4,7 +4,7 @@ Hi!![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 
 <h3 align="left">Languages and Tools:</h3>
-[![My Skills](https://skillicons.dev/icons?i=typescript,js,python,next,react,express,tailwind,mongo,postgres,sqlite,prisma,redis,selenium,graphql,docker,kubernetes,git,linux,aws,azure&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=typescript,js,python,next,react,express,tailwind,mongo,postgres,sqlite,prisma,redis,selenium,graphql,docker,kubernetes,git,linux,aws,azure)](https://skillicons.dev)
 <div style="display: flex; align-items: center; gap: 8px; transform: translateY(-28px);">
   <a href="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/turborepo.png">
     <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/turborepo.png" width="40" height="40" alt="Turborepo Icon">
